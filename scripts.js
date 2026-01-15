@@ -5,3 +5,7 @@ function entrarCurso(){
 function sairDoCurso(){
     console.log("Saiu do curso")
 }
+
+function concluirCurso(){
+    console.log("Parabens por concluir o curso!")
+}
